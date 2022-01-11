@@ -1,0 +1,17 @@
+sensors_manager.c:265:13:spi_Thread	48	static
+sensors_manager.c:294:13:SM_SPI_TxRxCpltCallback	0	static
+sensors_manager.c:515:13:SM_SPI_MspInit	64	static
+sensors_manager.c:117:6:SM_Error_Handler	0	static
+sensors_manager.c:130:6:SM_OS_Init	40	static
+sensors_manager.c:166:9:SM_SPI_Write	24	static
+sensors_manager.c:190:9:SM_SPI_Read	32	static
+sensors_manager.c:214:9:SM_SPI_Read_Os	24	static
+sensors_manager.c:237:9:SM_SPI_Write_Os	24	static
+sensors_manager.c:346:9:SM_I2C_Read	24	static
+sensors_manager.c:363:9:SM_I2C_Write	40	static
+sensors_manager.c:429:9:SM_I2C_Read_Os	24	static
+sensors_manager.c:445:9:SM_I2C_Write_Os	24	static
+sensors_manager.c:478:6:SM_Peripheral_Init	40	static
+sensors_manager.c:648:6:SM_TIM_Init	8	static
+sensors_manager.c:673:6:SM_TIM_Start	0	static
+sensors_manager.c:683:6:SM_TIM_Stop	8	static
